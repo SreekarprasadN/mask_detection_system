@@ -1,0 +1,4 @@
+# Core dependencies for lightweight version
+opencv-python>=4.5.3
+pillow>=8.3.2
+# Tkinter is included with Python standard library
